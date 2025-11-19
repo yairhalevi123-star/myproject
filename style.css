@@ -1,0 +1,18 @@
+.dogimg {
+  border-radius: 100px;
+}
+.bg-danger {
+  background-color: white;
+}
+.bg-dark-orange {
+  background-color: rgb(231, 107, 18) !important;
+}
+
+body {
+  background-color: antiquewhite;
+}
+.card-body {
+  height: 228px;
+}
+button {
+}
